@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @herjunop
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Fullstack JS
+- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me herjunopangestu@gmail.com
 
 <!---
